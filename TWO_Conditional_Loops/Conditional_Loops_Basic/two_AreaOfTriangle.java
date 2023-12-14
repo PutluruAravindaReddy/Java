@@ -1,4 +1,4 @@
-package Conditional_Loops_Basic;
+package TWO_Conditional_Loops.Conditional_Loops_Basic;
 
 import java.util.Scanner;
 public class two_AreaOfTriangle {

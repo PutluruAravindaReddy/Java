@@ -1,4 +1,4 @@
-package Conditional_Loops_Basic;
+package TWO_Conditional_Loops.Conditional_Loops_Basic;
 
 //Input a number and print all the factors of that number (use loops).
 

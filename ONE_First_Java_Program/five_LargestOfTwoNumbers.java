@@ -1,4 +1,4 @@
-package First_Java_Program;
+package ONE_First_Java_Program;
 //Take 2 numbers as input and print the largest number.
 
 import java.util.Scanner;

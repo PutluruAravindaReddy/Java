@@ -1,4 +1,6 @@
-package First_Java_Program;//Input currency in rupees and output in USD.
+package ONE_First_Java_Program;
+
+//Input currency in rupees and output in USD.
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package First_Java_Program;
+package ONE_First_Java_Program;
 //Take name as input and print a greeting message for that particular name.
 
 import java.util.Scanner;

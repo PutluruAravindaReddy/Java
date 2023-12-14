@@ -1,4 +1,6 @@
-package First_Java_Program;//Take in two numbers and an operator (+, -, *, /) and calculate the value. (Use if conditions)
+package ONE_First_Java_Program;
+
+//Take in two numbers and an operator (+, -, *, /) and calculate the value. (Use if conditions)
 
 import java.util.Scanner;
 

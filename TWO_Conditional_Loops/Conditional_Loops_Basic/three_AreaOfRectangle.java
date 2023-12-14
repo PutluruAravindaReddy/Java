@@ -1,4 +1,4 @@
-package Conditional_Loops_Basic;
+package TWO_Conditional_Loops.Conditional_Loops_Basic;
 
 //Area Of Rectangle Program
 
