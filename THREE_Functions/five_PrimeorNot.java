@@ -4,7 +4,7 @@ package THREE_Functions;
 
 import java.util.Scanner;
 
-public class seven_PrimeorNot {
+public class five_PrimeorNot {
     public static boolean isPrime(int num){
         if (num<=1){
             return false;
