@@ -1,10 +1,5 @@
 ### Question-Easy
 
-<style>
-    a{
-        margin:0 5px;
-    }
-</style>
 1. Build Array from Permutation.[(Question)](https://leetcode.com/problems/build-array-from-permutation/)<a href="one_PermutationOfArray.java">  (Solution)</a>
 2. Concatenation of Array. [(Question)](https://leetcode.com/problems/concatenation-of-array/)<a href="two_ConcatenationOfArray.java">  (Solution)</a>
 3. Running Sum of 1d Array.[(Question)](https://leetcode.com/problems/running-sum-of-1d-array/)<a href="three_SumOfArray.java">  (Solution)</a>
